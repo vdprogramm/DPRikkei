@@ -57,7 +57,41 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/MiniERP',demo:null,demoStatus:{vi:'Chưa triển khai bản demo',en:'No deployed demo yet'},featured:false
     },
     {
-      id:'student', number:'05', category:['Java','Fullstack'], visual:'campus',
+      id:'librarycs', number:'05', category:['.NET','Fullstack'], visual:'library',
+      name:'Library Management System', year:'2026', teamSize:'1',
+      role:{vi:'Full-stack Developer • C# Backend',en:'Full-stack Developer • C# Backend'},
+      overview:{
+        vi:'Hệ thống quản lý thư viện phân quyền Admin, Thủ thư và Độc giả; theo dõi mượn, trả và tiền phạt.',
+        en:'Role-based library management system for admins, librarians and readers, including borrowing, returns and overdue penalties.'
+      },
+      detail:{
+        vi:['Phát triển ASP.NET Core Web API cho sách, tác giả, thể loại, người dùng và phiếu mượn trả.','Áp dụng Clean Architecture, CQRS/MediatR và Entity Framework Core với PostgreSQL.','Tích hợp JWT/RBAC, xử lý số lượng sách khả dụng và nghiệp vụ phạt quá hạn; xây dựng giao diện React/TypeScript.'],
+        en:['Developed ASP.NET Core Web APIs for books, authors, categories, users and borrowing records.','Applied Clean Architecture, CQRS/MediatR and Entity Framework Core with PostgreSQL.','Added JWT/RBAC, availability and overdue-penalty workflows; built a React/TypeScript frontend.']
+      },
+      stack:['C#','.NET 8','ASP.NET Core','PostgreSQL','CQRS','React'],
+      github:'https://github.com/vdprogramm/libraryCS',demo:null,
+      demoStatus:{vi:'Chưa có bản demo trực tuyến',en:'Live demo not available yet'},
+      featured:false
+    },
+    {
+      id:'spotify', number:'06', category:['.NET','Fullstack'], visual:'music',
+      name:'Spotify Lite', year:'2026', teamSize:'1',
+      role:{vi:'Full-stack Developer • C# Backend',en:'Full-stack Developer • C# Backend'},
+      overview:{
+        vi:'Ứng dụng nghe nhạc với bài hát, nghệ sĩ, album, playlist, yêu thích và lịch sử nghe.',
+        en:'Music streaming application featuring songs, artists, albums, playlists, favorites and listening history.'
+      },
+      detail:{
+        vi:['Xây dựng ASP.NET Core Web API cho bài hát, album, nghệ sĩ, playlist, tìm kiếm và lịch sử nghe.','Sử dụng Entity Framework Core với MySQL, xác thực JWT và mã hóa mật khẩu bằng BCrypt.','Phát triển giao diện React/TypeScript và các API liên quan đến hồ sơ, yêu thích và gói đăng ký.'],
+        en:['Built ASP.NET Core Web APIs for songs, albums, artists, playlists, search and listening history.','Used Entity Framework Core with MySQL, JWT authentication and BCrypt password hashing.','Developed a React/TypeScript UI and APIs for profiles, favorites and subscriptions.']
+      },
+      stack:['C#','.NET 8','ASP.NET Core','MySQL','React','JWT'],
+      github:'https://github.com/vdprogramm/Spotify',demo:null,
+      demoStatus:{vi:'Chưa có bản demo trực tuyến',en:'Live demo not available yet'},
+      featured:false
+    },
+    {
+      id:'student', number:'07', category:['Java','Fullstack'], visual:'campus',
       name:'Quản lý sinh viên', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer • Java Backend',en:'Full-stack Developer • Java Backend'},
       overview:{vi:'Hệ thống đào tạo phân vai Admin, Giảng viên, Sinh viên và quản lý đăng ký môn/điểm.',en:'Student management platform with Admin, Lecturer and Student roles.'},
@@ -66,7 +100,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/QuanLySinhVien',demo:null,demoStatus:{vi:'Chưa xác nhận đường dẫn demo',en:'Demo URL not verified'},featured:false
     },
     {
-      id:'helpdesk', number:'06', category:['Node.js','Fullstack'], visual:'chat',
+      id:'helpdesk', number:'08', category:['Node.js','Fullstack'], visual:'chat',
       name:'Helpdesk SaaS', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer',en:'Full-stack Developer'},
       overview:{vi:'Hệ thống quản lý ticket và hỗ trợ khách hàng qua live chat thời gian thực.',en:'Real-time customer support platform combining ticket management and live conversations.'},
@@ -75,7 +109,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/helpdest',demo:'https://helpdest-fe.onrender.com/',featured:false
     },
     {
-      id:'flight', number:'07', category:['PHP','Fullstack'], visual:'flight',
+      id:'flight', number:'09', category:['PHP','Fullstack'], visual:'flight',
       name:'Flight Booking', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer',en:'Full-stack Developer'},
       overview:{vi:'Ứng dụng tìm chuyến bay, giữ ghế và đặt vé với xử lý đồng thời tránh trùng ghế.',en:'Flight reservation platform with seat holding and concurrency-aware booking flows.'},
@@ -84,7 +118,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/Flight-booking',demo:'https://flight-booking-seven-flame.vercel.app/',alternateDemo:'https://flight-booking-tech-d941.vercel.app',featured:false
     },
     {
-      id:'learnhub', number:'08', category:['PHP','Fullstack'], visual:'lms',
+      id:'learnhub', number:'10', category:['PHP','Fullstack'], visual:'lms',
       name:'LearnHub LMS', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer',en:'Full-stack Developer'},
       overview:{vi:'Nền tảng học trực tuyến, quản lý khóa học, tiến độ học và phát hành chứng chỉ PDF.',en:'Learning management system for courses, progress tracking and certificate generation.'},
