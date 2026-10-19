@@ -18,3 +18,24 @@ html[data-theme="light"] {color-scheme:light;--bg:#f5f8fa;--bg-alt:#eaf0f2;--car
 
 /* Demo links on project cards */
 .project-external{display:flex;align-items:center;gap:14px;flex-wrap:wrap;justify-content:flex-end}.demo-link{font-size:11px;font-weight:800;color:var(--mint);border:1px solid rgba(134,239,199,.38);background:var(--mint-dim);padding:7px 10px;border-radius:7px;white-space:nowrap}.demo-link:hover{border-color:var(--mint);background:rgba(134,239,199,.17)}@media(max-width:440px){.project-external{gap:8px}.demo-link{font-size:10px;padding:6px 8px}}
+
+
+/* Distinct C# project illustrations: Library Management and Spotify Lite */
+.visual-library{background:linear-gradient(135deg,#122d47,#153f47)}
+.library-book-stack{display:flex;gap:8px;align-items:flex-end;position:absolute;left:30px;bottom:28px;height:120px}
+.book-book{width:47px;border-radius:4px 8px 4px 4px;box-shadow:inset 5px 0 rgba(255,255,255,.12),0 12px 18px rgba(0,0,0,.14);display:flex;align-items:center;justify-content:center;writing-mode:vertical-rl;letter-spacing:2px;font:9px var(--mono);font-weight:800;color:#e3fff4}
+.book-a{height:94px;background:#187f83}.book-b{height:113px;background:#34709b}.book-c{height:82px;background:#7664a6}
+.library-side{position:absolute;left:210px;right:20px;top:80px;display:flex;flex-direction:column;gap:8px}
+.library-side strong{font-size:18px;letter-spacing:-.4px;color:#ecfff8}
+.library-side small{font-size:9px;color:#a6c9cd;line-height:1.5}
+.library-side span{align-self:start;border:1px solid #539e91;border-radius:5px;padding:6px 8px;color:#b5f8df;font:8px var(--mono);letter-spacing:.7px}
+.visual-music{background:linear-gradient(130deg,#172b3f,#252147)}
+.music-album{position:absolute;left:31px;top:63px;width:128px;height:128px;background:linear-gradient(135deg,#118873,#4ad4a7);border-radius:12px;box-shadow:0 12px 30px rgba(0,0,0,.26);display:grid;place-items:center}
+.music-album span{font-size:74px;font-family:var(--head);color:#0d3f39}
+.music-info{position:absolute;top:91px;left:182px;right:24px;display:flex;flex-direction:column;gap:9px}
+.music-info strong{font-size:15px;letter-spacing:-.3px;color:#edfdf6}
+.music-info span{font-size:9px;color:#bdc9dc}
+.music-progress{height:5px;border-radius:9px;background:rgba(255,255,255,.2);overflow:hidden;margin-top:5px}
+.music-progress i{display:block;width:54%;height:100%;background:#76ebc1}
+.music-controls{position:absolute;left:185px;right:20px;bottom:27px;font-size:15px;color:#b8e9d8;white-space:nowrap}
+@media(max-width:440px){.library-book-stack{left:20px;bottom:22px}.book-book{width:41px}.library-side{left:168px;right:10px;top:80px}.library-side strong{font-size:13px}.library-side small{font-size:8px}.library-side span{font-size:7px;padding:5px}.music-album{left:19px;width:113px;height:113px}.music-info{left:149px;right:12px}.music-info strong{font-size:12px}.music-controls{left:149px}}
