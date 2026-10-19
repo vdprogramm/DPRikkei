@@ -27,7 +27,7 @@
       exp3:'Phối hợp tích hợp API, gỡ lỗi và hoàn thiện bài tập/dự án thực hành.',
       studyTitle:'Công nghệ thông tin · Sinh viên năm cuối',studyMeta:'Đại học CMC · 2023 — hiện tại',studyDesc:'Kiến thức nền tảng: OOP, cơ sở dữ liệu, cấu trúc dữ liệu và giải thuật, công nghệ phần mềm, phát triển web.',
       sectionProjects:'04 / SẢN PHẨM ĐÃ XÂY DỰNG',projectsTitle:'Không chỉ học công nghệ.',projectsAccent:'Mình dùng nó để giải bài toán.',
-      projectsSub:'8 dự án với mã nguồn trên GitHub. Bấm một dự án để xem kiến trúc, chức năng và phần mình phụ trách.',
+      projectsSub:'10 dự án với mã nguồn trên GitHub. Bấm một dự án để xem kiến trúc, chức năng và phần mình phụ trách.',
       all:'Tất cả',featured:'NỔI BẬT',members:'Thành viên',role:'Vai trò',readMore:'Xem chi tiết',source:'Mã nguồn',live:'Bản demo',noDemo:'Chưa công bố demo',
       features:'Những phần đã thực hiện',tech:'Công nghệ chính',teamSize:'Quy mô nhóm',close:'Đóng',
       contactEyebrow:'05 / LIÊN HỆ',contactTitle:'Có một dự án hoặc vị trí',contactAccent:'phù hợp?',contactDesc:'Mình đang tìm cơ hội thực tập hoặc vị trí Fresher Backend Developer tại Hà Nội. Rất vui được trao đổi về kỹ thuật, dự án và cơ hội làm việc.',
@@ -54,7 +54,7 @@
       exp3:'Collaborated on API integration, debugging and practical exercises/projects.',
       studyTitle:'Information Technology · Final-year Student',studyMeta:'CMC University · 2023 — Present',studyDesc:'Relevant coursework: OOP, databases, data structures and algorithms, software engineering and web development.',
       sectionProjects:'04 / SELECTED WORK',projectsTitle:'More than learning tools.',projectsAccent:'Solving real problems.',
-      projectsSub:'Eight source-available projects. Select a project to view architecture, responsibilities and technologies.',
+      projectsSub:'Ten source-available projects. Select a project to view architecture, responsibilities and technologies.',
       all:'All',featured:'FEATURED',members:'members',role:'Role',readMore:'Case study',source:'Source code',live:'Live demo',noDemo:'Demo not published',
       features:'My contributions',tech:'Tech stack',teamSize:'Team size',close:'Close',
       contactEyebrow:'05 / CONTACT',contactTitle:'Have an internship or',contactAccent:'backend role in mind?',contactDesc:'I am looking for Backend Developer Intern / Fresher opportunities in Hanoi. Happy to discuss engineering challenges and project work.',
@@ -114,6 +114,19 @@
     if(name==='flight') return e('div',{className:'visual visual-flight'},e('div',{className:'visual-top'},e('span',null,'FLIGHT / BOOKING'),e('span',null,'BOARDING PASS')),
       e('div',{className:'ticket'},e('small',null,'FLIGHT DETAILS'),e('div',{className:'flight-route'},e('b',null,'HAN'),e('span',null,'✈ ─ ─ ─'),e('b',null,'SGN')),e('div',{className:'flight-date'},'Seat selected',e('span',null,'CONFIRMED'))));
     if(name==='lms') return e('div',{className:'visual visual-lms'},e('div',{className:'visual-top'},e('span',null,'LEARNHUB / COURSES'),e('span',null,'LMS')),e('div',{className:'lms-course'},e('div',{className:'lms-play'},'▶'),e('div',null,e('b',null,'Backend Fundamentals'),e('small',null,'Complete lessons • Get certified'),e('div',{className:'lms-track'},e('i')))),e('div',{className:'lms-badge'},'✓ Certificate ready'));
+    if(name==='library') return e('div',{className:'visual visual-library'},
+      e('div',{className:'visual-top'},e('span',null,'LIBRARY / MANAGEMENT'),e('span',null,'C# · .NET')),
+      e('div',{className:'library-book-stack'},
+        e('div',{className:'book-book book-a'},'BOOKS'),
+        e('div',{className:'book-book book-b'},'LOANS'),
+        e('div',{className:'book-book book-c'},'USERS')),
+      e('div',{className:'library-side'},e('strong',null,'LIBRARY HUB'),e('small',null,'Books · Borrowing · Returns'),e('span',null,'ROLE-BASED ACCESS')));
+    if(name==='music') return e('div',{className:'visual visual-music'},
+      e('div',{className:'visual-top'},e('span',null,'SPOTIFY LITE / MUSIC'),e('span',null,'C# · .NET')),
+      e('div',{className:'music-album'},e('span',null,'♫')),
+      e('div',{className:'music-info'},e('strong',null,'YOUR PLAYLIST'),e('span',null,'Music • Favorites • History'),
+        e('div',{className:'music-progress'},e('i'))),
+      e('div',{className:'music-controls'},'◀◀　 ▶　 ▶▶'));
     return e('div',{className:'visual'});
   }
   function ProjectCard(props) {
@@ -194,7 +207,7 @@
               e('div',{className:'terminal-rule'}),
               e('div',{className:'terminal-subtitle'},t.terminalSubtitle),
               e('div',{className:'terminal-list'},[t.terminalA,t.terminalB,t.terminalC,t.terminalD].map(function(s,i){return e('div',{key:s},e('span',{className:'term-index'},'0'+(i+1)),s,e('span',{className:'term-check'},'✓'))}))),
-            e('div',{className:'hero-ticker'},e('div',null,e('strong',null,'08'),e('span',null,t.projectLabel)),e('div',null,e('strong',null,'JAVA + NODE'),e('span',null,t.focusLabel)),e('div',null,e('strong',null,'2025'),e('span',null,t.expLabel)))))),
+            e('div',{className:'hero-ticker'},e('div',null,e('strong',null,String(projects.length).padStart(2,'0')),e('span',null,t.projectLabel)),e('div',null,e('strong',null,'JAVA + NODE'),e('span',null,t.focusLabel)),e('div',null,e('strong',null,'2025'),e('span',null,t.expLabel)))))),
           e('section',{id:'about',className:'section about-section'},e('div',{className:'container about-grid'},
             e('div',{className:'section-intro'},e('div',{className:'section-label'},t.sectionAbout),e('h2',{className:'section-heading'},t.aboutTitle,' ',e('span',{className:'accent'},t.aboutAccent))),
             e('div',{className:'about-content'},e('p',null,t.aboutP1),e('p',null,t.aboutP2),
