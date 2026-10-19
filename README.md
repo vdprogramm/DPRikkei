@@ -4,13 +4,13 @@ Website portfolio song ngữ (VI/EN), giao diện responsive, chạy offline, ph
 
 ## Chức năng
 - Trang giới thiệu, mục tiêu nghề nghiệp, kỹ năng và timeline thực tập **RikkeiEdu (Rikkeisoft)**.
-- **8 dự án**: SinoStock ERP, HealthAI, ShopTech, MiniERP, Quản lý sinh viên, Helpdesk, Flight Booking, LearnHub LMS.
+- **10 dự án**: SinoStock ERP, HealthAI, ShopTech, MiniERP, Library Management System, Spotify Lite, Quản lý sinh viên, Helpdesk, Flight Booking, LearnHub LMS.
 - Mỗi dự án có mô tả bài toán, công nghệ, **team size**, **vai trò**, đầu việc thực hiện, liên kết GitHub; link demo trích từ CV PDF của chủ dự án hoặc README/GitHub repository.
 - Bộ lọc dự án theo Java, Node.js, .NET, PHP, AI; modal chi tiết từng dự án.
 - Đổi ngôn ngữ Việt ↔ Anh và theme sáng ↔ tối, lưu tùy chọn trình duyệt.
 - Email, điện thoại, GitHub, tải CV PDF; không cần backend hay tài khoản.
 
-## Link demo đã thêm (19/10/2026)
+## Link demo và dự án C# (19/10/2026)
 
 | Dự án | Demo được cung cấp/ghi trên repository | Tình trạng nguồn |
 |---|---|---|
@@ -23,6 +23,8 @@ Website portfolio song ngữ (VI/EN), giao diện responsive, chạy offline, ph
 | LearnHub LMS (Laravel) | https://learn-hub-lms-seven.vercel.app/ | Hyperlink CV PDF & GitHub homepage |
 | Quản lý sinh viên (Java) | Chưa xác nhận URL | README/repo hiện không ghi demo website; không tự tạo URL |
 | MiniERP (C#/.NET) | Chưa có demo | Theo yêu cầu của chủ dự án |
+| Library Management System (C#/.NET) | Chưa có demo | Team size: 1 · GitHub: https://github.com/vdprogramm/libraryCS |
+| Spotify Lite (C#/.NET) | Chưa có demo | Team size: 1 · GitHub: https://github.com/vdprogramm/Spotify |
 
 **Lưu ý:** Các link trên được xác định từ tài liệu CV / GitHub, **chưa xác thực được toàn bộ website có đang truy cập và vận hành bình thường hay không**. Đừng coi sự tồn tại của liên kết là bằng chứng app hoạt động end-to-end.
 
@@ -51,7 +53,7 @@ Mở `http://localhost:8000`.
 
 ## Lưu ý cần rà soát trước khi công khai
 
-- `teamSize: 5` của ShopTech và quy mô nhóm 1 của các dự án khác được điền theo hồ sơ đang sử dụng; **xác nhận lại quy mô thực tế** trước khi phát hành CV/portfolio.
+- ShopTech có `teamSize: 5`; Library Management System và Spotify Lite có `teamSize: 1` theo xác nhận mới của chủ dự án. Quy mô các dự án khác được giữ theo hồ sơ đang sử dụng; hãy rà soát nếu cần.
 - Thời gian RikkeiEdu: **09/2025–12/2025**, là internship/training theo thông tin chủ sở hữu đã xác nhận, **không ghi thành nhân viên chính thức của Rikkeisoft**.
 - Tiếng Anh chỉ mô tả khả năng hiện tại; **không tự khai TOEIC/IELTS**.
 - Demo có thể phụ thuộc vào máy chủ bên ngoài, trạng thái database và tài khoản demo. Link demo được lấy từ README của từng repository, **không khẳng định luôn hoạt động**.
