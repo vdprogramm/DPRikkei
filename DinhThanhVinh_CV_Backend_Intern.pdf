@@ -1,5 +1,5 @@
 %PDF-1.4
-%PORTFOLIO
+%CV
 1 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
@@ -7,120 +7,114 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 3 0 obj
-<< /Length 7239 >>
+<< /Length 6136 >>
 stream
-0.082 0.467 0.533 rg 43 798.89 34 3 re f
-BT /F2 23.8 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 776.89 Tm (DINH THANH VINH) Tj ET
-BT /F2 9.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 757.89 Tm (BACKEND DEVELOPER INTERN  |  JAVA / SPRING BOOT) Tj ET
-BT /F1 8.55 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 736.89 Tm (Hanoi, Vietnam   |   0943 053 133   |   dinhthanhvinhnb205@gmail.com) Tj ET
-BT /F1 8.4 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 720.89 Tm (github.com/vdprogramm) Tj ET
-BT /F1 8.4 Tf 0.082 0.467 0.533 rg 1 0 0 1 226 720.89 Tm (dinhthanhvinh-portfolio.vercel.app) Tj ET
-0.082 0.467 0.533 RG 1.2 w 43 706.89 m 552.28 706.89 l S
-BT /F2 9.2 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 677.89 Tm (PROFILE) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 672.89 m 552.28 672.89 l S
-BT /F1 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 656.89 Tm (Final-year Information Technology student at CMC University with hands-on experience building Java Spring Boot and NestJS backend) Tj ET
-BT /F1 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 644.79 Tm (applications. Developed REST APIs, database models, authentication, role-based access and service integrations in ERP, healthcare and) Tj ET
-BT /F1 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 632.69 Tm (e-commerce projects. Seeking a Backend Developer internship to contribute to real projects and grow through mentoring.) Tj ET
-BT /F2 9.2 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 605.59 Tm (TECHNICAL SKILLS) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 600.59 m 552.28 600.59 l S
-BT /F2 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 584.59 Tm (Languages / Backend) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 160 584.59 Tm (Java, SQL, TypeScript, JavaScript; Spring Boot, Spring Security, JPA/Hibernate, NestJS) Tj ET
-BT /F2 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 571.59 Tm (Databases) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 160 571.59 Tm (PostgreSQL, MySQL, MongoDB; relational modeling, SQL queries) Tj ET
-BT /F2 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 558.59 Tm (Tools / Testing) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 160 558.59 Tm (Git, GitHub, Maven, Postman, Swagger, JUnit, MockMvc, Docker) Tj ET
-BT /F2 8.35 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 545.59 Tm (Core knowledge) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 160 545.59 Tm (OOP, RESTful APIs, JWT, RBAC, basic data structures & algorithms) Tj ET
-BT /F2 9.2 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 518.59 Tm (EXPERIENCE) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 513.59 m 552.28 513.59 l S
-BT /F2 9.2 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 497.59 Tm (JAVA BACKEND INTERN  |  RikkeiEdu \(Rikkeisoft\)) Tj ET
-BT /F1 8.2 Tf 0.322 0.384 0.451 rg 1 0 0 1 462.28 497.59 Tm (Sep - Dec 2025) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 480.59 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 480.59 Tm (Completed a Java backend internship/training program; built practice REST APIs and implemented business logic with Spring Boot and) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 469.04 Tm (databases.) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 455.79 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 455.79 Tm (Practiced JWT/RBAC, tested API requests with Postman, and used Git for integration work and debugging.) Tj ET
-BT /F2 9.2 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 428.54 Tm (SELECTED PROJECTS) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 423.54 m 552.28 423.54 l S
-BT /F2 9.05 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 407.54 Tm (SinoStock ERP  |  Enterprise Operations Management) Tj ET
-BT /F1 8 Tf 0.322 0.384 0.451 rg 1 0 0 1 534.28 407.54 Tm (2026) Tj ET
-BT /F1 8.15 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 393.54 Tm (Individual project  |  Full-stack Developer \(Java Backend\)) Tj ET
-BT /F1 7.7 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 380.54 Tm (Java 21  /  Spring Boot  /  PostgreSQL  /  JPA  /  React  /  JWT) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 367.54 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 367.54 Tm (Developed APIs for purchasing, inventory, sales, receivables and reports, with role-based access across six departments.) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 354.29 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 354.29 Tm (Implemented Spring Security/JWT, JPA/Hibernate persistence, API documentation and backend tests with JUnit/MockMvc.) Tj ET
-BT /F2 7.3 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 341.04 Tm (GITHUB) Tj ET
-BT /F1 7.95 Tf 0.082 0.467 0.533 rg 1 0 0 1 91 341.04 Tm (github.com/vdprogramm/SinoStock-ERP) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 329.04 m 552.28 329.04 l S
-BT /F2 9.05 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 315.04 Tm (HealthAI  |  Healthcare Appointments & AI Support) Tj ET
-BT /F1 8 Tf 0.322 0.384 0.451 rg 1 0 0 1 534.28 315.04 Tm (2026) Tj ET
-BT /F1 8.15 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 301.04 Tm (Individual project  |  Full-stack & AI Developer) Tj ET
-BT /F1 7.7 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 288.04 Tm (Java 21  /  Spring Boot  /  PostgreSQL  /  React  /  FastAPI) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 275.04 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 275.04 Tm (Built patient, doctor, schedule and appointment APIs with JWT/RBAC and PostgreSQL \(Neon\).) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 261.79 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 261.79 Tm (Integrated a FastAPI service for AI-assisted specialty suggestions into the Spring Boot application.) Tj ET
-BT /F2 7.3 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 248.54 Tm (GITHUB) Tj ET
-BT /F1 7.95 Tf 0.082 0.467 0.533 rg 1 0 0 1 91 248.54 Tm (github.com/vdprogramm/HealthAI) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 236.54 m 552.28 236.54 l S
-BT /F2 9.05 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 222.54 Tm (ShopTech  |  Multi-vendor E-commerce Platform) Tj ET
-BT /F1 8 Tf 0.322 0.384 0.451 rg 1 0 0 1 534.28 222.54 Tm (2026) Tj ET
-BT /F1 8.15 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 208.54 Tm (Team of 5  |  Backend & AI Developer) Tj ET
-BT /F1 7.7 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 195.54 Tm (NestJS  /  TypeScript  /  MongoDB  /  React  /  React Native  /  FastAPI) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 182.54 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 182.54 Tm (Developed NestJS modules for authentication, products, cart and orders, using JWT/RBAC and MongoDB.) Tj ET
-BT /F2 8.8 Tf 0.082 0.467 0.533 rg 1 0 0 1 45 169.29 Tm (-) Tj ET
-BT /F1 8.15 Tf 0.082 0.157 0.231 rg 1 0 0 1 58 169.29 Tm (Connected web/mobile clients and a FastAPI RAG chatbot for product consultation and recommendations.) Tj ET
-BT /F2 7.3 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 156.04 Tm (GITHUB) Tj ET
-BT /F1 7.95 Tf 0.082 0.467 0.533 rg 1 0 0 1 91 156.04 Tm (github.com/vdprogramm/Shoptech-ecommerce) Tj ET
-BT /F2 9.2 Tf 0.082 0.467 0.533 rg 1 0 0 1 43 140.04 Tm (EDUCATION & LANGUAGE) Tj ET
-0.833 0.871 0.898 RG 0.65 w 43 135.04 m 552.28 135.04 l S
-BT /F2 8.6 Tf 0.082 0.157 0.231 rg 1 0 0 1 43 119.04 Tm (CMC University  |  Information Technology \(Software Engineering\)) Tj ET
-BT /F1 8 Tf 0.322 0.384 0.451 rg 1 0 0 1 462.28 119.04 Tm (2023 - Present) Tj ET
-BT /F1 8.1 Tf 0.322 0.384 0.451 rg 1 0 0 1 43 105.04 Tm (Relevant coursework: OOP, Data Structures & Algorithms, Databases, Software Engineering. | English: basic technical reading.) Tj ET
+0.04 0.42 0.5 rg 39 800.89 32 2.5 re f
+BT /F2 22 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 779.89 Tm (DINH THANH VINH) Tj ET
+BT /F2 10 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 758.89 Tm (BACKEND DEVELOPER INTERN  |  JAVA / SPRING BOOT) Tj ET
+BT /F1 8.2 Tf 0.35 0.41 0.47 rg 1 0 0 1 39 739.89 Tm (Hanoi, Vietnam   |   0943 053 133   |   dinhthanhvinhnb205@gmail.com) Tj ET
+BT /F1 8 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 724.89 Tm (github.com/vdprogramm) Tj ET
+BT /F1 8 Tf 0.04 0.42 0.5 rg 1 0 0 1 230 724.89 Tm (dinhthanhvinh-portfolio.vercel.app) Tj ET
+0.04 0.42 0.5 RG .65 w 39 708.89 m 556 708.89 l S
+BT /F2 9.35 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 685.89 Tm (PROFILE) Tj ET
+0.84 0.88 0.91 RG .65 w 39 680.89 m 556 680.89 l S
+BT /F1 8.15 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 664.89 Tm (Final-year Information Technology student at CMC University with practical Java Spring Boot and NestJS backend experience. Developed REST) Tj ET
+BT /F1 8.15 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 653.69 Tm (APIs, database models, authentication and role-based access for ERP, healthcare and e-commerce projects. Seeking a Java Backend internship) Tj ET
+BT /F1 8.15 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 642.49 Tm (to grow through mentoring and real-world development.) Tj ET
+BT /F2 9.35 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 617.29 Tm (TECHNICAL SKILLS) Tj ET
+0.84 0.88 0.91 RG .65 w 39 612.29 m 556 612.29 l S
+BT /F1 7.95 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 596.29 Tm (Languages / Backend: Java, SQL, TypeScript, JavaScript; Spring Boot, Spring Security, JPA/Hibernate, NestJS) Tj ET
+BT /F1 7.95 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 583.39 Tm (Databases: PostgreSQL, MySQL, MongoDB; SQL queries and relational data modeling) Tj ET
+BT /F1 7.95 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 570.49 Tm (Tools / Testing: Git, GitHub, Maven, Postman, Swagger, JUnit, MockMvc, Docker) Tj ET
+BT /F1 7.95 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 557.59 Tm (Concepts: OOP, REST APIs, JWT, RBAC, basic data structures and algorithms) Tj ET
+BT /F2 9.35 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 535.69 Tm (INTERNSHIP EXPERIENCE) Tj ET
+0.84 0.88 0.91 RG .65 w 39 530.69 m 556 530.69 l S
+BT /F2 9.15 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 514.69 Tm (JAVA BACKEND INTERN  |  RikkeiEdu \(Rikkeisoft\)) Tj ET
+BT /F1 7.8 Tf 0.35 0.41 0.47 rg 1 0 0 1 472 514.69 Tm (Sep - Dec 2025) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 499.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 499.69 Tm (Participated in BookingMovie, a five-member internship team project organized around a Java/Spring Boot API and a React client.) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 487.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 487.69 Tm (Practiced backend development, API integration and Git-based team collaboration during the internship/training program.) Tj ET
+BT /F2 8.2 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 475.69 Tm (BookingMovie  |  Team size: 5  |  Internship project member) Tj ET
+BT /F1 8 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 462.69 Tm (github.com/vdprogramm/BookingMovie) Tj ET
+BT /F2 9.35 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 444.69 Tm (SELECTED PROJECTS) Tj ET
+0.84 0.88 0.91 RG .65 w 39 439.69 m 556 439.69 l S
+BT /F2 9 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 423.69 Tm (SinoStock ERP - Inventory & Sales Management) Tj ET
+BT /F1 7.9 Tf 0.35 0.41 0.47 rg 1 0 0 1 39 410.69 Tm (2026  |  Individual  |  Full-stack Developer \(Java Backend\)) Tj ET
+BT /F1 7.75 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 398.69 Tm (Java 21  /  Spring Boot  /  PostgreSQL  /  JPA  /  React) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 385.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 385.69 Tm (Developed REST APIs for purchasing, inventory, sales, receivables and reporting, with role-based access.) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 373.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 373.69 Tm (Implemented JWT/Spring Security, database persistence, Swagger and backend tests.) Tj ET
+BT /F1 8 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 361.69 Tm (github.com/vdprogramm/SinoStock-ERP) Tj ET
+0.84 0.88 0.91 RG .65 w 39 348.69 m 556 348.69 l S
+BT /F2 9 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 334.69 Tm (HealthAI - Healthcare Appointment Platform) Tj ET
+BT /F1 7.9 Tf 0.35 0.41 0.47 rg 1 0 0 1 39 321.69 Tm (2026  |  Individual  |  Full-stack & AI Developer) Tj ET
+BT /F1 7.75 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 309.69 Tm (Java 21  /  Spring Boot  /  PostgreSQL  /  React  /  FastAPI) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 296.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 296.69 Tm (Built patient, doctor, schedule and appointment APIs with JWT/RBAC and PostgreSQL.) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 284.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 284.69 Tm (Integrated a FastAPI service to provide AI-assisted specialty suggestions.) Tj ET
+BT /F1 8 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 272.69 Tm (github.com/vdprogramm/HealthAI) Tj ET
+0.84 0.88 0.91 RG .65 w 39 259.69 m 556 259.69 l S
+BT /F2 9 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 245.69 Tm (ShopTech - Multi-vendor E-commerce) Tj ET
+BT /F1 7.9 Tf 0.35 0.41 0.47 rg 1 0 0 1 39 232.69 Tm (2026  |  Team size: 5  |  Backend & AI Developer) Tj ET
+BT /F1 7.75 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 220.69 Tm (NestJS  /  MongoDB  /  React  /  React Native  /  FastAPI) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 207.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 207.69 Tm (Developed NestJS modules for authentication, products, cart and orders with JWT/RBAC.) Tj ET
+BT /F2 8.4 Tf 0.04 0.42 0.5 rg 1 0 0 1 41 195.69 Tm (-) Tj ET
+BT /F1 7.9 Tf 0.07 0.14 0.22 rg 1 0 0 1 53 195.69 Tm (Connected web/mobile clients and a FastAPI RAG chatbot for product support.) Tj ET
+BT /F1 8 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 183.69 Tm (github.com/vdprogramm/Shoptech-ecommerce) Tj ET
+BT /F2 9.35 Tf 0.04 0.42 0.5 rg 1 0 0 1 39 164.69 Tm (EDUCATION & LANGUAGE) Tj ET
+0.84 0.88 0.91 RG .65 w 39 159.69 m 556 159.69 l S
+BT /F1 8.05 Tf 0.07 0.14 0.22 rg 1 0 0 1 39 143.69 Tm (CMC University | Information Technology \(Software Engineering\) | 2023 - Present) Tj ET
+BT /F1 8 Tf 0.35 0.41 0.47 rg 1 0 0 1 39 132.69 Tm (English: Basic technical reading; currently improving listening and speaking.) Tj ET
 endstream
 endobj
 4 0 obj
-<< /Type /Annot /Subtype /Link /Rect [43 717.89 124.9 729.89] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm) >> >>
+<< /Type /Annot /Subtype /Link /Rect [39 721.89 117.16 734.89] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm) >> >>
 endobj
 5 0 obj
-<< /Type /Annot /Subtype /Link /Rect [226 717.89 350.07 729.89] /Border [0 0 0] /A << /S /URI /URI (https://dinhthanhvinh-portfolio.vercel.app/#about) >> >>
+<< /Type /Annot /Subtype /Link /Rect [230 721.89 348.72 734.89] /Border [0 0 0] /A << /S /URI /URI (https://dinhthanhvinh-portfolio.vercel.app/#about) >> >>
 endobj
 6 0 obj
-<< /Type /Annot /Subtype /Link /Rect [91 338.04 225.28 350.04] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/SinoStock-ERP) >> >>
+<< /Type /Annot /Subtype /Link /Rect [39 459.69 167.4 472.69] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/BookingMovie) >> >>
 endobj
 7 0 obj
-<< /Type /Annot /Subtype /Link /Rect [91 245.54 204.05 257.54] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/HealthAI) >> >>
+<< /Type /Annot /Subtype /Link /Rect [39 358.69 174.36 371.69] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/SinoStock-ERP) >> >>
 endobj
 8 0 obj
-<< /Type /Annot /Subtype /Link /Rect [91 153.04 243.4 165.04] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/Shoptech-ecommerce) >> >>
+<< /Type /Annot /Subtype /Link /Rect [39 269.69 153 282.69] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/HealthAI) >> >>
 endobj
 9 0 obj
-<< /Type /Page /Parent 10 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R /Annots [4 0 R 5 0 R 6 0 R 7 0 R 8 0 R] >>
+<< /Type /Annot /Subtype /Link /Rect [39 180.69 192.52 193.69] /Border [0 0 0] /A << /S /URI /URI (https://github.com/vdprogramm/Shoptech-ecommerce) >> >>
 endobj
 10 0 obj
-<< /Type /Pages /Kids [9 0 R] /Count 1 >>
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R /Annots [4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R] >>
 endobj
 11 0 obj
-<< /Type /Catalog /Pages 10 0 R >>
+<< /Type /Pages /Kids [10 0 R] /Count 1 >>
+endobj
+12 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
 endobj
 xref
-0 12
+0 13
 0000000000 65535 f 
-0000000020 00000 n 
-0000000090 00000 n 
-0000000165 00000 n 
-0000007455 00000 n 
-0000007605 00000 n 
-0000007777 00000 n 
-0000007942 00000 n 
-0000008102 00000 n 
-0000008271 00000 n 
-0000008454 00000 n 
-0000008512 00000 n 
+0000000013 00000 n 
+0000000083 00000 n 
+0000000158 00000 n 
+0000006345 00000 n 
+0000006496 00000 n 
+0000006668 00000 n 
+0000006831 00000 n 
+0000006996 00000 n 
+0000007153 00000 n 
+0000007323 00000 n 
+0000007513 00000 n 
+0000007572 00000 n 
 trailer
-<< /Size 12 /Root 11 0 R >>
+<< /Size 13 /Root 12 0 R >>
 startxref
-8563
+7623
 %%EOF
