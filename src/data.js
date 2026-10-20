@@ -48,7 +48,32 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/Shoptech-ecommerce',demo:'https://shoptech-ecommerce.vercel.app/', featured:true
     },
     {
-      id:'minierp', number:'04', category:['.NET','Fullstack'], visual:'warehouse',
+      id:'bookingmovie', number:'04', category:['Java','Fullstack'], visual:'cinema',
+      name:'BookingMovie', year:'2025', teamSize:'5',
+      role:{vi:'Thành viên dự án thực tập RikkeiEdu',en:'RikkeiEdu Internship Project Team Member'},
+      overview:{
+        vi:'Dự án thực tập nhóm xây dựng hệ thống đặt vé xem phim, có phần Backend Java/Spring Boot và Frontend React.',
+        en:'Team internship project for an online movie booking system, organized into Java/Spring Boot backend and React frontend components.'
+      },
+      detail:{
+        vi:[
+          'Tham gia dự án BookingMovie trong chương trình thực tập/đào tạo Java Backend tại RikkeiEdu (Rikkeisoft), nhóm 5 thành viên.',
+          'Cấu trúc repository gồm dự án API Java sử dụng JDK 21/Gradle và phần client React.',
+          'Đây là dự án thực tập nhóm; chưa có xác nhận về module cá nhân phụ trách nên không ghi nhận công việc của toàn đội là thành tích cá nhân.'
+        ],
+        en:[
+          'Worked as one of five members on BookingMovie during the Java Backend internship/training program at RikkeiEdu (Rikkeisoft).',
+          'The repository is organized around a Java API project (JDK 21/Gradle) and a React client.',
+          'Individual module ownership has not yet been confirmed; team-level features are not represented as sole contributions.'
+        ]
+      },
+      stack:['Java 21','Spring Boot','Gradle','React','Team of 5'],
+      github:'https://github.com/vdprogramm/BookingMovie',
+      demo:null,demoStatus:{vi:'Chưa xác nhận link demo',en:'Live demo not verified'},
+      featured:true
+    },
+    {
+      id:'minierp', number:'05', category:['.NET','Fullstack'], visual:'warehouse',
       name:'MiniERP', year:'2026', teamSize:'1',
       role:{vi:'Backend / Full-stack Developer',en:'Backend / Full-stack Developer'},
       overview:{vi:'Nền tảng quản lý kho, xuất nhập hàng, nhân viên và hóa đơn với phân quyền theo bộ phận.',en:'Inventory, employee and invoice management system with role-based and branch-level access.'},
@@ -57,7 +82,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/MiniERP',demo:null,demoStatus:{vi:'Chưa triển khai bản demo',en:'No deployed demo yet'},featured:false
     },
     {
-      id:'librarycs', number:'05', category:['.NET','Fullstack'], visual:'library',
+      id:'librarycs', number:'06', category:['.NET','Fullstack'], visual:'library',
       name:'Library Management System', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer • C# Backend',en:'Full-stack Developer • C# Backend'},
       overview:{
@@ -74,7 +99,7 @@ window.PORTFOLIO = {
       featured:false
     },
     {
-      id:'spotify', number:'06', category:['.NET','Fullstack'], visual:'music',
+      id:'spotify', number:'07', category:['.NET','Fullstack'], visual:'music',
       name:'Spotify Lite', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer • C# Backend',en:'Full-stack Developer • C# Backend'},
       overview:{
@@ -91,7 +116,7 @@ window.PORTFOLIO = {
       featured:false
     },
     {
-      id:'student', number:'07', category:['Java','Fullstack'], visual:'campus',
+      id:'student', number:'08', category:['Java','Fullstack'], visual:'campus',
       name:'Quản lý sinh viên', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer • Java Backend',en:'Full-stack Developer • Java Backend'},
       overview:{vi:'Hệ thống đào tạo phân vai Admin, Giảng viên, Sinh viên và quản lý đăng ký môn/điểm.',en:'Student management platform with Admin, Lecturer and Student roles.'},
@@ -100,7 +125,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/QuanLySinhVien',demo:null,demoStatus:{vi:'Chưa xác nhận đường dẫn demo',en:'Demo URL not verified'},featured:false
     },
     {
-      id:'helpdesk', number:'08', category:['Node.js','Fullstack'], visual:'chat',
+      id:'helpdesk', number:'09', category:['Node.js','Fullstack'], visual:'chat',
       name:'Helpdesk SaaS', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer',en:'Full-stack Developer'},
       overview:{vi:'Hệ thống quản lý ticket và hỗ trợ khách hàng qua live chat thời gian thực.',en:'Real-time customer support platform combining ticket management and live conversations.'},
@@ -109,7 +134,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/helpdest',demo:'https://helpdest-fe.onrender.com/',featured:false
     },
     {
-      id:'flight', number:'09', category:['PHP','Fullstack'], visual:'flight',
+      id:'flight', number:'10', category:['PHP','Fullstack'], visual:'flight',
       name:'Flight Booking', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer',en:'Full-stack Developer'},
       overview:{vi:'Ứng dụng tìm chuyến bay, giữ ghế và đặt vé với xử lý đồng thời tránh trùng ghế.',en:'Flight reservation platform with seat holding and concurrency-aware booking flows.'},
@@ -118,7 +143,7 @@ window.PORTFOLIO = {
       github:'https://github.com/vdprogramm/Flight-booking',demo:'https://flight-booking-seven-flame.vercel.app/',alternateDemo:'https://flight-booking-tech-d941.vercel.app',featured:false
     },
     {
-      id:'learnhub', number:'10', category:['PHP','Fullstack'], visual:'lms',
+      id:'learnhub', number:'11', category:['PHP','Fullstack'], visual:'lms',
       name:'LearnHub LMS', year:'2026', teamSize:'1',
       role:{vi:'Full-stack Developer',en:'Full-stack Developer'},
       overview:{vi:'Nền tảng học trực tuyến, quản lý khóa học, tiến độ học và phát hành chứng chỉ PDF.',en:'Learning management system for courses, progress tracking and certificate generation.'},
