@@ -4,7 +4,7 @@ Website portfolio song ngữ (VI/EN), giao diện responsive, chạy offline, ph
 
 ## Chức năng
 - Trang giới thiệu, mục tiêu nghề nghiệp, kỹ năng và timeline thực tập **RikkeiEdu (Rikkeisoft)**.
-- **10 dự án**: SinoStock ERP, HealthAI, ShopTech, MiniERP, Library Management System, Spotify Lite, Quản lý sinh viên, Helpdesk, Flight Booking, LearnHub LMS.
+- **11 dự án**: SinoStock ERP, HealthAI, ShopTech, BookingMovie, MiniERP, Library Management System, Spotify Lite, Quản lý sinh viên, Helpdesk, Flight Booking, LearnHub LMS.
 - Mỗi dự án có mô tả bài toán, công nghệ, **team size**, **vai trò**, đầu việc thực hiện, liên kết GitHub; link demo trích từ CV PDF của chủ dự án hoặc README/GitHub repository.
 - Bộ lọc dự án theo Java, Node.js, .NET, PHP, AI; modal chi tiết từng dự án.
 - Đổi ngôn ngữ Việt ↔ Anh và theme sáng ↔ tối, lưu tùy chọn trình duyệt.
@@ -22,6 +22,7 @@ Website portfolio song ngữ (VI/EN), giao diện responsive, chạy offline, ph
 | Flight Booking (link khác) | https://flight-booking-tech-d941.vercel.app | GitHub repository homepage – hiện khác CV, được mở bằng nút phụ ở chi tiết dự án |
 | LearnHub LMS (Laravel) | https://learn-hub-lms-seven.vercel.app/ | Hyperlink CV PDF & GitHub homepage |
 | Quản lý sinh viên (Java) | Chưa xác nhận URL | README/repo hiện không ghi demo website; không tự tạo URL |
+| BookingMovie (Java Spring Boot + React) | Chưa xác nhận | Thực tập RikkeiEdu (09–12/2025), team 5 · https://github.com/vdprogramm/BookingMovie |
 | MiniERP (C#/.NET) | Chưa có demo | Theo yêu cầu của chủ dự án |
 | Library Management System (C#/.NET) | Chưa có demo | Team size: 1 · GitHub: https://github.com/vdprogramm/libraryCS |
 | Spotify Lite (C#/.NET) | Chưa có demo | Team size: 1 · GitHub: https://github.com/vdprogramm/Spotify |
@@ -82,3 +83,12 @@ portfolio_vinh/
 ```
 
 Tác giả: Đinh Thành Vinh · GitHub: https://github.com/vdprogramm
+
+## Dự án thực tập RikkeiEdu – BookingMovie
+
+- **Repository:** https://github.com/vdprogramm/BookingMovie
+- **Team size:** 5 (do chủ portfolio xác nhận).
+- **Bối cảnh:** Dự án được thực hiện trong kỳ thực tập/đào tạo Java Backend tại RikkeiEdu (Rikkeisoft), 09/2025–12/2025.
+- **Cấu trúc đã kiểm tra:** Có thư mục dành cho API Java dùng cấu hình JDK 21/Gradle và React client; hai thư mục lõi được lưu dưới dạng Git submodule. Nội dung chức năng và module cá nhân phụ trách chưa xác nhận nên không tự bổ sung.
+- **Live demo:** Chưa cung cấp hoặc xác minh đường dẫn.
+- **Các dự án C#** MiniERP, Library Management và Spotify Lite vẫn được giữ nguyên trên website.
